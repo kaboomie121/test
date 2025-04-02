@@ -6,6 +6,6 @@ def test():
         test += 1
         time.sleep(5)
 
-
+print('hello!')
 
 test()
